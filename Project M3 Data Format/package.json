@@ -1,0 +1,15 @@
+{
+  "name": "project-m3-data-format",
+  "version": "1.0.0",
+  "description": "Module 3 Assignment Data Format",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Saurabh Verma",
+  "license": "ISC",
+  "dependencies": {
+    "node-fetch": "^3.2.10"
+  }
+}
